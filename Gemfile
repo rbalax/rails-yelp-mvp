@@ -10,6 +10,7 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.2"
 gem "sprockets-rails"
 gem "simple_form", github: "heartcombo/simple_form"
 gem 'faker'
+gem 'font-awesome-sass'
 
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
